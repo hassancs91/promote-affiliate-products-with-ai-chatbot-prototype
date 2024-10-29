@@ -1,0 +1,41 @@
+[
+  {
+    "unqiue_service_name": "Hostinger",
+    "starting_price": "$2.99/month",
+    "description": "Hostinger offers Managed WordPress Hosting with multiple plans to suit different needs, making it easier to launch a professional online presence.",
+    "features": "WordPress multisite support, 100 domain-based email addresses, WordPress themes, Over 100 subdomains",
+    "uptime_guarantee": null,
+    "security_features": null,
+    "backup_options": null,
+    "free_domain": "Yes, a free domain name registration is included in WordPress plans.",
+    "money_back_guarantee": "Yes, a 30-day money-back guarantee is provided.",
+    "details": "Free domain registration includes .com extension. You can create up to 100 domain-based email addresses at no extra cost.",
+    "affiliate_link": "https://affiliate.link/hostinger"
+  },
+  {
+    "unqiue_service_name": "SiteGround",
+    "starting_price": null,
+    "description": "SiteGround offers three ways to transfer a WordPress website: manual migration by experts, self-transfer, or using the free WordPress Migrator plugin.",
+    "features": "Manual migration by SiteGround experts, self-transfer for tech-savvy users, and a free WordPress Migrator plugin for easy migration.",
+    "uptime_guarantee": null,
+    "security_features": null,
+    "backup_options": null,
+    "free_domain": null,
+    "money_back_guarantee": null,
+    "details": "The WordPress Migrator plugin is free and easy to use, allowing users to transfer their WordPress websites quickly.",
+    "affiliate_link": "https://affiliate.link/siteground"
+  },
+  {
+    "unqiue_service_name": "GreenGeeks",
+    "starting_price": null,
+    "description": "GreenGeeks offers a secure, high-performance platform optimized for WordPress websites with eco-friendly hosting, offsetting 300% of the energy consumption with renewable energy credits.",
+    "features": "1-click WordPress installation, automatic WordPress updates, advanced tools like WP Staging, WP-CLI, and Git, high-performance technologies including SSD hard drives, LiteSpeed Web Server, MariaDB database servers, PHP 8, HTTP/2, LSCache technology, CloudFlare CDN, 24/7 WordPress expert support, free WordPress site migration services.",
+    "uptime_guarantee": null,
+    "security_features": "Security features are included in the shared hosting plans, but specific details are not mentioned.",
+    "backup_options": null,
+    "free_domain": null,
+    "money_back_guarantee": null,
+    "details": "GreenGeeks is an eco-friendly web host, offsetting 300% of the energy your site uses through renewable energy credits. The service includes a staging option for testing before moving a WordPress site. WordPress installations are automatically updated with previous versions available if needed.",
+    "affiliate_link": "https://affiliate.link/greengeeks"
+  }
+]
